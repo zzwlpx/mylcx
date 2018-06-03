@@ -1,0 +1,67 @@
+﻿Build started 2016/3/7 8:42:19.
+     1>Project "E:\fileTran\lcxZZW\zzwlcx\zzwlcx\zzwlcx.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\zzwlcx.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\zzwlcx.unsuccessfulbuild".
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt tran.cpp
+         tran.cpp
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(49): warning C4552: '+' : operator has no effect; expected operator with side-effect
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(62): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(82): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(101): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(108): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(111): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(116): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(118): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(120): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(318): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(494): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(499): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(505): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(510): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(560): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(615): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(743): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(157) : see declaration of 'strerror'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(766): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _write. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(318) : see declaration of 'write'
+     1>e:\filetran\lcxzzw\zzwlcx\zzwlcx\tran.cpp(766): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _fileno. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(723) : see declaration of 'fileno'
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\zzwlcx.exe.embed.manifest.res" Debug\zzwlcx_manifest.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\fileTran\lcxZZW\zzwlcx\Debug\zzwlcx.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\zzwlcx.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\fileTran\lcxZZW\zzwlcx\Debug\zzwlcx.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\fileTran\lcxZZW\zzwlcx\Debug\zzwlcx.lib" /MACHINE:X86 Debug\zzwlcx.exe.embed.manifest.res
+         Debug\tran.obj
+       Manifest:
+         Deleting file "Debug\zzwlcx.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\zzwlcx.exe.embed.manifest" /manifest Debug\zzwlcx.exe.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\zzwlcx.exe.embed.manifest.res" Debug\zzwlcx_manifest.rc 
+       LinkEmbedManifest:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\fileTran\lcxZZW\zzwlcx\Debug\zzwlcx.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\zzwlcx.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\fileTran\lcxZZW\zzwlcx\Debug\zzwlcx.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\fileTran\lcxZZW\zzwlcx\Debug\zzwlcx.lib" /MACHINE:X86 Debug\zzwlcx.exe.embed.manifest.res
+         Debug\tran.obj
+         zzwlcx.vcxproj -> E:\fileTran\lcxZZW\zzwlcx\Debug\zzwlcx.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\zzwlcx.unsuccessfulbuild".
+         Touching "Debug\zzwlcx.lastbuildstate".
+     1>Done Building Project "E:\fileTran\lcxZZW\zzwlcx\zzwlcx\zzwlcx.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.32
